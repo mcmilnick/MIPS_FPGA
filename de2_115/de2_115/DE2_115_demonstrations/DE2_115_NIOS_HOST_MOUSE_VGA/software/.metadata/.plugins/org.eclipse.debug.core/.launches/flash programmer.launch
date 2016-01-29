@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<launchConfiguration type="com.altera.nj.launch.FlashLaunch">
+<stringAttribute key="com.altera.nj.launch.FLASH_SOF_FILENAME" value="D:\MYSVN\de2_115\cd\DE2_115_demonstrations\DE2_115_mouse\DE2_115_NIOS_HOST_MOUSE_VGA\DE2_115_NIOS_HOST_MOUSE_VGA.sof"/>
+<booleanAttribute key="com.altera.nj.launch.VALIDATE_HW_SYSID" value="true"/>
+<intAttribute key="com.altera.nj.launch.DEBUG_TARGET" value="1"/>
+<intAttribute key="com.altera.nj.launch.DEVICE_INDEX" value="-1"/>
+<stringAttribute key="com.altera.nj.launch.PTF_CPU" value="cpu"/>
+<stringAttribute key="com.altera.nj.launch.FLASH_SOF_OFFSET" value="0x0"/>
+<stringAttribute key="com.altera.nj.launch.FLASH_DATAFILE_OFFSET" value="0x0"/>
+<stringAttribute key="com.altera.nj.launch.FLASH_DATAFILE_MEMORY_61" value="cfi_flash"/>
+<stringAttribute key="com.altera.nj.launch.CABLE_NAME" value="automatic"/>
+<stringAttribute key="com.altera.nj.launch.DOWNLOAD_ARGS" value=""/>
+<stringAttribute key="com.altera.nj.launch.FLASH_DATAFILE_MEMORY_60" value=""/>
+<stringAttribute key="org.eclipse.cdt.launch.PROGRAM_NAME" value="Debug/DE2_115_NIOS_HOST_MOUSE_VGA.elf"/>
+<stringAttribute key="com.altera.nj.launch.FLASH_DATAFILE_FILENAME" value=""/>
+<stringAttribute key="com.altera.nj.launch.PTF_NAME" value="D:\MYSVN\de2_115\cd\DE2_115_demonstrations\DE2_115_mouse\DE2_115_NIOS_HOST_MOUSE_VGA\DE2_115_SOPC.ptf"/>
+<stringAttribute key="com.altera.nj.launch.SOF2FLASH_ARGS" value=""/>
+<stringAttribute key="org.eclipse.cdt.launch.PROJECT_ATTR" value="DE2_115_NIOS_HOST_MOUSE_VGA"/>
+<stringAttribute key="com.altera.nj.launch.FLASH_SOF_FLASHCONFIG_61" value="Custom"/>
+<stringAttribute key="com.altera.nj.launch.FLASH_SOF_MEMORY" value="cfi_flash"/>
+<booleanAttribute key="com.altera.nj.launch.ACTIVE_PARALLEL" value="false"/>
+</launchConfiguration>

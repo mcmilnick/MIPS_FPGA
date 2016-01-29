@@ -1,0 +1,123 @@
+Altera SOPC Builder Version 10.00 Build 218
+Copyright (c) 1999-2009 Altera Corporation.  All rights reserved.
+
+
+No .sopc_builder configuration file(!)
+# 2012.06.14 19:54:38 (*) mk_custom_sdk starting
+# 2012.06.14 19:54:38 (*) Reading project D:/MYSVN/de2_115/cd/DE2_115_demonstrations/DE2_115_mouse/DE2_115_NIOS_HOST_MOUSE_VGA/DE2_115_SOPC.ptf.
+
+# 2012.06.14 19:54:39 (*) Finding all CPUs
+# 2012.06.14 19:54:39 (*) Finding all available components
+# 2012.06.14 19:54:39 (*) Reading D:/MYSVN/de2_115/cd/DE2_115_demonstrations/DE2_115_mouse/DE2_115_NIOS_HOST_MOUSE_VGA/.sopc_builder/install.ptf
+
+# 2012.06.14 19:54:39 (*) Found 67 components
+
+# 2012.06.14 19:54:39 (*) Finding all peripherals
+
+# 2012.06.14 19:54:39 (*) Finding software components
+
+# 2012.06.14 19:54:40 (*) (Legacy SDK Generation Skipped)
+# 2012.06.14 19:54:40 (*) (All TCL Script Generation Skipped)
+# 2012.06.14 19:54:40 (*) (No Libraries Built)
+# 2012.06.14 19:54:40 (*) (Contents Generation Skipped)
+# 2012.06.14 19:54:40 (*) mk_custom_sdk finishing
+
+# 2012.06.14 19:54:40 (*) Starting generation for system: DE2_115_SOPC.
+
+.
+.
+.
+.
+.
+....
+..
+.
+..
+.
+...
+
+# 2012.06.14 19:54:42 (*) Running Generator Program for cpu
+
+# 2012.06.14 19:54:43 (*) Starting Nios II generation
+# 2012.06.14 19:54:43 (*)   Checking for plaintext license.
+# 2012.06.14 19:54:48 (*)   Plaintext license not found.
+# 2012.06.14 19:54:48 (*)   Checking for encrypted license (non-evaluation).
+# 2012.06.14 19:54:54 (*)   Encrypted license found.  SOF will not be time-limited.
+# 2012.06.14 19:54:54 (*)   Getting CPU configuration settings
+# 2012.06.14 19:54:54 (*)   Elaborating CPU configuration settings
+# 2012.06.14 19:54:54 (*)   Creating all objects for CPU
+
+# 2012.06.14 19:54:54 (*)     Testbench
+# 2012.06.14 19:54:54 (*)     Instruction decoding
+# 2012.06.14 19:54:54 (*)       Instruction fields
+# 2012.06.14 19:54:55 (*)       Instruction decodes
+# 2012.06.14 19:54:55 (*)       Signals for RTL simulation waveforms
+# 2012.06.14 19:54:56 (*)       Instruction controls
+# 2012.06.14 19:54:56 (*)     Pipeline frontend
+# 2012.06.14 19:54:56 (*)     Pipeline backend
+# 2012.06.14 19:55:00 (*)   Generating HDL from CPU objects
+# 2012.06.14 19:55:03 (*)   Creating encrypted HDL
+
+# 2012.06.14 19:55:05 (*) Done Nios II generation
+
+# 2012.06.14 19:55:06 (*) Running Generator Program for sysid
+
+# 2012.06.14 19:55:07 (*) Running Generator Program for timer
+
+# 2012.06.14 19:55:08 (*) Running Generator Program for sdram
+
+# 2012.06.14 19:55:09 (*) Running Generator Program for key
+
+# 2012.06.14 19:55:10 (*) Running Generator Program for sma_in
+
+# 2012.06.14 19:55:12 (*) Running Generator Program for sma_out
+
+# 2012.06.14 19:55:13 (*) Running Generator Program for sw
+
+# 2012.06.14 19:55:14 (*) Running Generator Program for ledg
+
+# 2012.06.14 19:55:15 (*) Running Generator Program for ledr
+
+# 2012.06.14 19:55:16 (*) Running Generator Program for lcd
+
+# 2012.06.14 19:55:17 (*) Running Generator Program for jtag_uart
+
+# 2012.06.14 19:55:18 (*) Running Generator Program for timer_stamp
+
+# 2012.06.14 19:55:19 (*) Running Generator Program for cfi_flash
+
+# 2012.06.14 19:55:20 (*) Running Generator Program for DE2_115_SOPC_clock_0
+
+# 2012.06.14 19:55:22 (*) Running Generator Program for DE2_115_SOPC_clock_1
+
+# 2012.06.14 19:55:23 (*) Running Generator Program for DE2_115_SOPC_clock_2
+
+# 2012.06.14 19:55:25 (*) Running Generator Program for clock_crossing_io
+
+.
+
+
+# 2012.06.14 19:55:27 (*) Running Test Generator Program for sdram
+
+# 2012.06.14 19:55:27 (*) Making arbitration and system (top) modules.
+
+# 2012.06.14 19:55:41 (*) Generating Quartus symbol for top level: DE2_115_SOPC
+
+# 2012.06.14 19:55:42 (*) Generating Symbol D:/MYSVN/de2_115/cd/DE2_115_demonstrations/DE2_115_mouse/DE2_115_NIOS_HOST_MOUSE_VGA/DE2_115_SOPC.bsf
+
+# 2012.06.14 19:55:42 (*) Creating command-line system-generation script: D:/MYSVN/de2_115/cd/DE2_115_demonstrations/DE2_115_mouse/DE2_115_NIOS_HOST_MOUSE_VGA/DE2_115_SOPC_generation_script
+
+# 2012.06.14 19:55:42 (*) Running setup for HDL simulator: modelsim
+
+
+# 2012.06.14 19:55:42 (*) Completed generation for system: DE2_115_SOPC.
+# 2012.06.14 19:55:42 (*) THE FOLLOWING SYSTEM ITEMS HAVE BEEN GENERATED:
+  SOPC Builder database : D:/MYSVN/de2_115/cd/DE2_115_demonstrations/DE2_115_mouse/DE2_115_NIOS_HOST_MOUSE_VGA/DE2_115_SOPC.ptf 
+  System HDL Model : D:/MYSVN/de2_115/cd/DE2_115_demonstrations/DE2_115_mouse/DE2_115_NIOS_HOST_MOUSE_VGA/DE2_115_SOPC.v 
+  System Generation Script : D:/MYSVN/de2_115/cd/DE2_115_demonstrations/DE2_115_mouse/DE2_115_NIOS_HOST_MOUSE_VGA/DE2_115_SOPC_generation_script 
+
+
+# 2012.06.14 19:55:42 (*) SUCCESS: SYSTEM GENERATION COMPLETED.
+
+
+Press 'Exit' to exit.

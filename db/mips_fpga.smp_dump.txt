@@ -1,0 +1,16 @@
+
+State Machine - |mips_fpga|next_command
+Name next_command.reset1 next_command.drop_lcd_e next_command.return_home next_command.line2 next_command.print_string 
+next_command.print_string 0 0 0 0 0 
+next_command.line2 0 0 0 1 1 
+next_command.return_home 0 0 1 0 1 
+next_command.drop_lcd_e 0 1 0 0 1 
+next_command.reset1 1 0 0 0 1 
+
+State Machine - |mips_fpga|state
+Name state.reset1 state.drop_lcd_e state.return_home state.line2 state.print_string 
+state.print_string 0 0 0 0 0 
+state.line2 0 0 0 1 1 
+state.return_home 0 0 1 0 1 
+state.drop_lcd_e 0 1 0 0 1 
+state.reset1 1 0 0 0 1 

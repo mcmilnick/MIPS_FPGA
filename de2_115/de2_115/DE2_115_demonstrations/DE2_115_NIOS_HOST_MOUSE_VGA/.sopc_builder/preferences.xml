@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<preferences>
+ <systemtable filter="All">
+  <columns>
+   <connections preferredWidth="207" />
+   <export visible="0" />
+   <irq preferredWidth="34" />
+   <inputclock visible="1" />
+  </columns>
+ </systemtable>
+ <clocktable>
+  <columns>
+   <clockname preferredWidth="307" />
+   <clocksource preferredWidth="305" />
+   <frequency preferredWidth="304" />
+  </columns>
+ </clocktable>
+ <window width="1440" height="900" x="-1440" y="0" />
+ <library
+   expandedCategories="Project/Terasic Technologies Inc./DE2_115,Library/Interface Protocols,Library/Memories and Memory Controllers,Library/Memories and Memory Controllers/Flash,Library,Library/Bridges and Adapters,Project,Project/Terasic Technologies Inc.,Library/Bridges and Adapters/Memory Mapped" />
+ <debug showDebugMenu="0" />
+</preferences>

@@ -1,0 +1,7 @@
+[EPCS-010216] #EPCS64N(lead-free)
+sector_size = 65536
+sector_count = 128
+
+[EPCS-012018] #EPCS128N(lead-free)
+sector_size = 262144
+sector_count = 64
